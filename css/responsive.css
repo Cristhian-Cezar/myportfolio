@@ -370,4 +370,158 @@
         padding: 0.9rem 1rem;
 
     }
-}
+
+    /* Section Cards */
+    section .container .cardsFull {
+        display: block;
+    }
+
+    section .container .cardsFull .titleCards  tag {
+        font-size: 0.9rem;
+    }
+
+    section .container .cardsFull .titleCards h2 span {
+        font-size: 3rem;
+    }
+
+    section .container .cardsFull .titleCards h2 {
+        font-size: 3rem;
+    }
+
+    section .container .cardsFull .cards {
+        display: block;
+    }
+
+    section .container .cardsFull .cards .cardsAll {
+        width: 100%;
+        height: 18rem;
+        margin: auto;    
+        margin-top: 2rem;
+    }
+
+    section .container .cardsFull .cards .cardsAll h3 {
+        font-size: 5rem;
+        padding-top: 2rem;
+        margin-block-start: 0em;
+        margin-block-end: 0em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        text-align: center;
+    }
+
+    section .container .cardsFull .cards .cardsAll .infor p {
+        font-size: 2rem;
+        margin: 0 0 0 0;
+        margin-top: 3rem;
+        text-align: center;
+    }
+
+    /* Section Sobre */
+    section .container {
+        display: block;
+    }
+
+    section .container .sobre {
+        display: block;
+        padding-bottom: 0.1rem;
+    }
+
+    section .container .sobre {
+        width: 100%;
+    }
+
+    section .container .sobre .txt {
+        width: 100%;
+    }
+
+    section .container .sobre h2 {
+        font-size: 2.9rem;
+    }
+
+    section .container .sobre .txtSobre {
+        width: 100%;
+        text-align: center;
+    }
+
+    section .container .sobre p {
+        font-size: 1.4rem;
+    }
+
+    section .container .sobre .myPhoto img {
+        display: none;
+    }
+
+    section .container .sobre .redesSociais{
+        margin: auto;
+    }
+
+    section .container .sobre .redesSociais img {
+        padding-left: 1rem;
+        margin: auto;
+    }
+
+
+    /* section cases */
+    section .container .sectionCases {
+        display: block;
+    }
+
+    section .container .sectionCases h2 {
+        font-size: 3rem;
+        margin-bottom: 3rem;
+        margin-top: 8rem;
+    }
+
+    section .container .sectionCases .imgCases {
+        display: block;
+        width: 100%;
+    }
+
+    section .container .sectionCases .imgCases .imgSmall {
+        width: 100%;
+        height: 100%;
+    }
+
+    section .container .sectionCases .imgCases .img2 {
+        margin-top: 1.8rem;
+    }
+
+
+    /* section contato */
+    section .container .sectionContato {
+        display: block;
+        width: 100%;
+    }
+
+    section .container .sectionContato .titleContato {
+        width: 100%;
+        margin: auto;
+    }
+
+    section .container .sectionContato .titleContato h2 {
+        font-size: 3rem;
+    }
+
+    section .container .sectionContato .form {
+        display: block;
+        width: 100%;
+    }
+
+    section .container .sectionContato .form input {
+        width: 100%;
+        font-size: 1.2rem;
+    }
+
+    section .container .sectionContato .form button {
+        margin-left: 0rem;
+    }
+
+    /* footer */
+    footer .container-fluid {
+        padding: 2rem 0rem;
+    }
+    footer .container-fluid p {
+        font-size: 1rem;
+    }
+
+ }

@@ -22,18 +22,39 @@
 
 
     /* Cards */
+    section .container .cardsFull {
+        width: 100%;
+    }
+
+    section .container .cardsFull .titleCards h2 {
+        font-size: 3.5rem;
+        margin-top: 0.6rem;
+    }
+
+    section .container .cardsFull .titleCards h2 span {
+        font-size: 3.5rem ;
+    }
+
     section .container .cardsFull .cards {
         margin: auto;
-        width: 70%;
-        margin-left: -2rem;
+        width: 100%;
+    }
+
+    section .container .cardsFull .cards .cardsAll {
+        height: 95%;
+        width: 100%;
+        margin: auto;
+        margin-left: 1rem;
     }
 
     section .container .cardsFull .cards .cardsAll h3 {
         font-size: 3.5rem;
+        margin-top: 3rem;
     }
 
-    section .container .titleCards {
-        width: 100%;
+    section .container .cardsFull .cards .cardsAll p {
+        font-size: 1.6rem;
+        margin-bottom: 2rem;
     }
 
 
@@ -208,10 +229,21 @@
     section .container .cardsFull .cards {
         display: block;
         margin: auto;
+        width: 100%;
+    }
+
+    section .container .cards .title h3 {
+        padding-top: 2.6rem;
+        font-size: 6rem;
+    }
+
+    section .container .cardsFull .cards p {
+        margin-top: 10rem;
     }
 
     section .container .cardsFull .cards .cardsAll {
         margin: auto;
+        width: 80%;
     }
 
 
@@ -221,15 +253,19 @@
         width: 100%;
     }
 
-    section .container .sobre .txtSobre p{
-        width: 90%;
-        margin: auto;
-        display: block;
+    section .container .sobre .txt {
+        width: 100%;
     }
+
+    section .container .sobre .txtSobre p{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        }
 
     section .container .sobre .txtSobre {
         margin-top: 3rem;
-        width: 38%;
+        width: 100%;
     }
 
     section .container .sobre .myPhoto {
@@ -243,14 +279,28 @@
 
 
     /* Cases */
+    section .container .sectionCases {
+        width: 100%;
+    }
+
+    section .container .sectionCases .imgCases .imgSmall {
+        margin: auto;
+    }
+
+    
     section .container .sectionCases .imgCases  {
         display: block;
-        margin: auto;
         width: 100%;
         margin-top: -5rem;
-    }
+        margin: auto;
+    }    
     
     section .container .sectionCases .imgCases .img2 {
+        margin-top: 2rem;
+        width: 92.5%;
+    }
+
+    section .container .sectionCases .imgCases .img1 {
         margin-top: 2rem;
     }
 

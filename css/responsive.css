@@ -1,0 +1,373 @@
+@media only screen and (min-width: 1100px) and (max-width: 1300px) {
+    
+   
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1100px) {
+
+    
+
+}
+
+@media only screen and (min-width: 701px) and (max-width: 900px) {
+    /* header */
+        h2 {
+        font-size: 3rem;
+    }
+    
+    header .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+    /* Cards */
+    section .container .cardsFull .cards {
+        margin: auto;
+        width: 70%;
+        margin-left: -2rem;
+    }
+
+    section .container .cardsFull .cards .cardsAll h3 {
+        font-size: 3.5rem;
+    }
+
+    section .container .titleCards {
+        width: 100%;
+    }
+
+
+    /* Sobre */
+    section .container .sobre {
+        display: block;
+        justify-content: center;
+    }
+
+    section .container .sobre .txtSobre {
+        margin: auto;
+        width: 100%;
+    }
+
+    section .container .sobre .txtSobre p {
+        width: 85%;
+    }
+
+    section .container .sobre .myPhoto {
+        margin: auto;
+        margin-top: 5rem;
+    }
+
+    section .container .sobre .myPhoto img {
+        border-radius: 15px;
+    }
+
+
+    /* Cases */
+    section .container .sectionCases {
+        display: block;
+    }
+
+    section .container .sectionCases .imgCases {
+        display: block;
+        margin: auto;
+        margin-top: -5rem;
+    }
+
+    section .container .sectionCases .imgCases .img2 {
+        margin-top: 5rem;
+        width: 89%;
+    }
+
+    section .container .sectionCases .imgCases .img1 {
+        margin-top: 5rem;
+    }
+
+    /* Contato */
+    section .container .sectionContato {
+        display: block;
+    }
+
+    section .container .sectionContato .titleContato {
+        margin: auto;   
+    }
+
+}
+
+@media only screen and (min-width: 501px) and (max-width: 700px) {
+    
+    /* header */
+    header .container {
+        display: block;
+        width: 100%;
+        justify-content: center ;
+        align-items: center;
+    }
+
+    header .container .logoBeAcademy img {
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .container nav {
+        margin-top: 2rem;
+        padding: 5px 0px;
+        background-color: var(--semi-black);
+    }
+
+    header .container nav button {
+        width: 40%;
+    }
+
+    header .container .barraDeNaveg {
+        margin: auto;
+    }
+    
+    header .container .redeSocialMenu {
+        margin: auto;
+
+    }
+
+    header .container .redeSocialMenu li {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    /* Cards */
+    section .container .cardsFull {
+        display: block;
+    }
+
+    section .container .cardsFull .cards .cardsAll {
+        margin: auto;
+    }
+
+    /* Sobre */
+    section .container .sobre {
+        display: block;
+        width: 100%;
+    }
+
+    section .container .sobre .txtSobre {
+        width: 62.8%;
+    }
+
+    section .container .sobre .myPhoto {
+        margin: auto;
+        margin-top: 4rem;
+    }
+
+    section .container .sobre .myPhoto img {
+        border-radius: 15px;
+    }
+
+     /* Cases */
+     section .container .sectionCases .imgCases  {
+        display: block;
+        margin: auto;
+        width: 80%;
+        margin-top: -5rem;
+    }
+
+    section .container .sectionCases .img2 {
+        margin-top: 2rem;
+    }
+
+
+    /* Contato */
+    section .container .sectionContato {
+        display: block;
+    }
+
+
+    section .container .sectionContato .titleContato {
+        margin: auto;
+    }
+
+    section .container .sectionContato .titleContato h2 {
+        text-align: start;
+                
+    }
+
+    section .container .cardsFull .cards {
+        display: block;
+        margin: auto;
+    }
+
+}
+
+@media only screen and (min-width: 400px) and (max-width: 500px) {
+    
+    /* Cards */
+    section .container .cardsFull {
+        display: block;
+    }
+
+    section .container .cardsFull .cards {
+        display: block;
+        margin: auto;
+    }
+
+    section .container .cardsFull .cards .cardsAll {
+        margin: auto;
+    }
+
+
+    /* Sobre */
+    section .container .sobre {
+        display: block;
+        width: 100%;
+    }
+
+    section .container .sobre .txtSobre p{
+        width: 90%;
+        margin: auto;
+        display: block;
+    }
+
+    section .container .sobre .txtSobre {
+        margin-top: 3rem;
+        width: 38%;
+    }
+
+    section .container .sobre .myPhoto {
+        margin: auto;
+        margin-top: 4rem;
+    } 
+
+    section .container .sobre .myPhoto img {
+        border-radius: 15px;
+    }
+
+
+    /* Cases */
+    section .container .sectionCases .imgCases  {
+        display: block;
+        margin: auto;
+        width: 100%;
+        margin-top: -5rem;
+    }
+    
+    section .container .sectionCases .imgCases .img2 {
+        margin-top: 2rem;
+    }
+
+    /* Contato */
+    section .container .sectionContato {
+        display: block;
+    }
+
+    section .container .sectionContato .titleContato {
+        margin: auto;
+    }
+
+    section .container .sectionContato .form {
+        margin: auto;
+    }
+
+    section .container .sectionContato .form input {
+        width: 100%;
+    }
+
+    section .container .sectionContato .form button {
+        margin: auto;
+        margin-top: 2.2rem;
+    }
+
+    /* Header */
+    header .container {
+        width: 100%;
+        display: block;
+    }
+
+    header .container .logoBeAcademy img {
+        margin: auto;
+        width: 20%;
+    }
+
+    header .container nav {
+        justify-content: center;
+        margin-top: 10px;
+        background-color: var(--semi-black);
+        padding: 5px 0px;
+    }
+
+    header .container nav .barraDeNaveg li {
+        font-size: 12px;
+        margin: auto;
+        padding-left: 20px;
+    }
+
+    header .container nav button {
+        font-size: 60%;
+        display: inline-block;
+        margin-left: 20px;
+    }
+
+    header .container .redeSocialMenu li{
+        display: none;
+    }
+
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 399px) {
+    
+    /* header */
+    header .container {
+        display: block;
+    }
+
+    header .container .logoBeAcademy {
+        width: 25%;
+        margin: auto;
+    }
+
+    header .container nav {
+        margin: auto;
+        font-size: 70%;
+        justify-content: space-around;
+        background-color: var(--semi-black);
+        margin-top: 1rem;
+        padding: 0.5rem 0 ;
+    }
+
+    header .container nav .barraDeNaveg {
+        padding-left: 3.9rem;
+        font-size: 1.2rem;
+    }
+
+    header .container nav button {
+        display: none;
+    }
+
+    header .container nav .redeSocialMenu {
+        display: none;
+    }
+
+    /* Main */
+   section .container .titleBox p {
+        font-size: 80%;
+    }
+
+    main .hero .container .titleBox h1{
+        font-size: 3rem;
+    }
+    main .hero .container .titleBox h1 span{
+        font-size: 3rem;
+    }
+
+    main .hero .container .titleBox h2 {
+        font-size: 2rem;
+    }
+
+    main .hero .container .titleBox .buttonViewCases {
+        width: 100%;
+        font-size: 1.2rem;
+        border: 1px solid rebeccapurple;
+        padding: 0.9rem 1rem;
+
+    }
+}

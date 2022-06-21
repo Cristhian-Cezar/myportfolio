@@ -4,8 +4,108 @@
 }
 
 @media only screen and (min-width: 901px) and (max-width: 1100px) {
+    /* header */
+    header .container {
+        padding: 2rem 2rem;
+    }
+    /* cards */
+    section .container .cardsFull {
+        width: 100%;
+    }
 
+    section .container .cardsFull .titleCards {
+        margin-bottom: 3rem;
+    }
+
+    section .container .cardsFull .cards {
+        width: 75%;
+    }
+
+    section .container .cardsFull .cards .cardsAll {
+        width: 100%;
+        height: 100%;
+        margin-left: 1rem;
+    }
+
+    /* sobre */
+    section .container .sobre {
+     align-items: center;
+     justify-content: center;
+     display: block;
+
+    }
+
+    section .container .sobre .txt {
+        margin: 0 0;
+        width: 100%;
+
+    }
+
+
+    section .container .sobre .txt .txtSobre {
+        text-align: center;
+        margin: auto;
+        width: 100%;
+
+    }
+
+    section .container .sobre .myPhoto {
+        margin: auto;
+        width: 50%;
+        margin-top: 10.4rem;
+    } 
+
+    section .container .sobre .myPhoto img {
+        border-radius: 15px;
+    }
+
+    /* cases */
+
+    section .container .titleCases h2 {
+        margin: 0 0;
+    }
+
+    section .container .sectionCases {
+        border: 1px solid rebeccapurple;
+    }
+
+    section .container .sectionCases .imgCases {
+        padding: 1rem 1rem;
+        width: 100%;
+        margin: auto;
+    }
+
+    section .container .sectionCases .imgCases .img2 {
+        width: 34rem;
+        margin: auto;
     
+    }
+
+    section .container .sectionCases .imgCases .img1 {
+        width: 27rem;
+        height: 25rem;
+    }
+
+    section .container .sectionCases .imgCases .imgSmall {
+        border-radius: 15px;
+        margin: 0 0;
+        margin: auto;
+    }
+
+
+    /* contato */
+    section .container .sectionContato .titleContato {
+        margin: 0 0;
+    }
+
+    section .container .sectionContato .form {
+        margin: 0;
+    }
+
+    section .container .sectionContato .form input {
+        margin-top: 0;
+        margin-bottom: 1.5rem;
+    }
 
 }
 

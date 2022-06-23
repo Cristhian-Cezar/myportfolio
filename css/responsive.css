@@ -4,7 +4,6 @@
         padding: 3rem 3rem;
     }
 
-
     /* About */
     section .container .sobre {
     }
@@ -278,7 +277,6 @@
         margin-top: 2rem;
         padding: 5px 0px;
         background-color: var(--semi-black);
-        border: 1px solid red;
     }
 
     header .container nav ul li {
